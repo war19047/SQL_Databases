@@ -23,7 +23,7 @@ I used Python in Visual Studio Code to develp my software. Python has a built in
 # Useful Websites
 
 Below are some websites I found useful when learning about SQLite3 databases.
-* [sqlitetutorial](https://www.sqlitetutorial.net/)
+* [SQLitetutorial](https://www.sqlitetutorial.net/)
 * [YouTube SQLite tutorial](https://www.youtube.com/watch?v=pd-0G0MigUA)
 
 # Future Work
