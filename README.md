@@ -1,12 +1,11 @@
 # SQLite3 Data Bases
 
-I am trying to learn about databases and how they store and retrieve data. I decided a good place to start is with SQLite3 because it is built in to Python.
+I am trying to learn about databases and how they store and retrieve data. I decided a good place to start is with SQLite3 because it is built into Python.
 
 I decided to make a database that would store information about my family. Sort of a personal profile if you will. The database stores email addresses, birthdays, hobbies, and some interesting places they have traveled to. My family likes to travel so I thought it would be fun to compare where everyone has been in the world.  
 
-I decided to write this software because I want to learn more about how databases work. I find it interesting how we can store so much information and retreive it in a matter of seconds. We use databases almost everyday when we are online so I thought why not learn about them. 
+I decided to write this software because I want to learn more about how databases work. I find it interesting how we can store so much information and retrieve it in a matter of seconds. We use databases almost every day when we are online, so I thought why not learn about them.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
 
 [Software Demo Video](https://youtu.be/OuF7nskNrTM)
 
@@ -18,7 +17,7 @@ I created three tables. One table to store names, email addresses, and birthdays
 
 # Development Environment
 
-I used Python in Visual Studio Code to develp my software. Python has a built in database called SQLite 3 which I imported to create my database.
+I used Python in Visual Studio Code to develop my software. Python has a built-in database called SQLite 3 which I imported to create my database.
 
 # Useful Websites
 
